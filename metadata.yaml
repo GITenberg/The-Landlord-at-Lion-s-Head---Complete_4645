@@ -1,5 +1,8 @@
 _repo: The-Landlord-at-Lion-s-Head---Complete_4645
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -14,6 +17,8 @@ creator:
 description: "The Landlord at Lion's Head is a novel by American writer William Dean\
   \ Howells. The book was first published in 1897 by Harper & Brothers.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4645#The-Landlord-at-Lion-s-Head---Complete
 gutenberg_issued: '2004-10-23'
 gutenberg_type: Text
 identifiers:
